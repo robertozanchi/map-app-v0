@@ -19,7 +19,7 @@
 //     // call the Place constructor here
 // };
 
-// hard coded places data
+// Hard coded locations data
 var markers = [
 	{
 	"title": 'Totto Ramen',
